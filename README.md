@@ -1,2 +1,6 @@
-# phelim-h.github.io
-Landing page for my domain
+# Hello
+I recently purchased a domain.
+
+Github Pages currently hosts this domain - I am researching elsewhere also.
+
+Thanks for Visiting!
